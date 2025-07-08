@@ -19,6 +19,15 @@ Place them back into the root directory like this:
 
 project/ ├── recycle_model/ ├── Toxic/ ├── Organic/ └── ...
 
+Download the trained model files from:
+
+- [`recycle_model.keras`](https://huggingface.co/your-model-link)
+- [`recycle_model.tflite`](https://drive.google.com/your-link-here)
+
+Place them in the `recycle_model/` directory:
+
+project/ └── recycle_model/ ├── recycle_model.keras └── recycle_model.tflite
+
 
 ## 📝 Notes
 
